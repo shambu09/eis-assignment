@@ -13,3 +13,8 @@ Demonstrate the Creation of a Zombie process and also show that the zombie proce
 
 ### B) Zombie process is prevented:
 ![answer2a.png](res/2b.png)
+
+## Problem 3:
+Write a program which creates, say 10 process. Let them run in an infinite loop. show that the processes are scheduled on the CPU in no specific order.
+
+![answer2a.png](res/3.png)
