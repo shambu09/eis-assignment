@@ -30,6 +30,6 @@ int main()
 
 	cout << "function pointers are equal to nullptrs now, as the libraries are "
 			"offloaded from the memory." << endl;
-	cout << "Fact(10) = " << findFactorial(10) << endl;
+	cout << "Factorial(10) = " << findFactorial(10) << endl;
 	cout << "isPrime(17) = " << isPrime(17) << endl;
 }
