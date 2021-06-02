@@ -42,5 +42,5 @@ Create two shared libraries A.so (contains the function definition of factorial)
 
 <br>
 
-### B) Built executable using the archive library (.a) made from individual libraries:
+### B) Built executable using the archive libraries (.a) made from individual libraries:
 ![answer6b.png](res/6b.png)
