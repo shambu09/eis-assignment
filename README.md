@@ -27,6 +27,13 @@ Write a program which creates, say 10 process. Let them run in an infinite loop.
 
 <br>
 
+## Problem 4:
+Show that a user level thread blocks the entire process when it calls a blocking system call.
+
+![answer4.png](res/4.png)
+
+<br>
+
 ## Problem 5:
 Give a solution to the bounded buffer producer and consumer problem using semaphore. The buffer should implement in a shared memory. Producer and consumer should be two distinct processes. The buffer state at different times should be captured in a text file or in a graphical representation.
 
