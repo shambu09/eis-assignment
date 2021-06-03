@@ -67,3 +67,29 @@ Create two shared libraries A.so (contains the function definition of factorial)
 
 ### C) Implement an IPC (or two half-duplex pipes), such that the coprocess add2 is invoked when two numbers are read from standard input and the value from the co-process is written to its standard output.
 ![answer7c.png](res/7c.png)
+
+<br>
+
+## Problem 8:
+### A.1) The Producer/Consumer Problem.
+![answer7c.png](res/8a_1.png)
+
+<br>
+
+### A.2) Barber customer problem.
+![answer7a.png](res/8a_2.png)
+
+<br>
+
+### B) Readers/Writers Problem using Semaphore /Monitors.
+![answer7b.png](res/8b.png)
+
+<br>
+
+### C) Dining Philosophers Problem using semaphores/monitors.
+![answer7c.png](res/8c.png)
+
+<br>
+
+### D) Dekker’s algorithm / Peterson’s algorithm.
+![answer7c.png](res/8d.png)
