@@ -44,3 +44,19 @@ Create two shared libraries A.so (contains the function definition of factorial)
 
 ### B) Built executable using the archive libraries (.a) made from individual libraries:
 ![answer6b.png](res/6b.png)
+
+<br>
+
+## Problem 7:
+### A) Create a pipe between a parent and its child and send data down the pipe. With proper example.
+![answer7a.png](res/7a.png)
+
+<br>
+
+### B) Create two pipes before the fork, to implement interprocess communication between parent and child.
+![answer7b.png](res/7b.png)
+
+<br>
+
+### C) Implement an IPC (or two half-duplex pipes), such that the coprocess add2 is invoked when two numbers are read from standard input and the value from the co-process is written to its standard output.
+![answer7c.png](res/7c.png)
